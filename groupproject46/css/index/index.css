@@ -1,0 +1,42 @@
+
+ 
+ /**********************************
+SLIDER
+***********************************/
+	
+	#infomain {
+	clear: both;
+	width: 100%;
+	overflow: hidden;
+	margin-top: -17px;
+	margin-right: 20px;
+	padding: 0;	
+}
+
+#intro p {
+line-height: 1.7em;
+padding: 25px;
+margin-bottom: 30px;
+background: rgba(50, 50, 50, 0.75);  
+}
+
+
+
+.sliderinfo1 {
+	width: 100%;	 font-size: 1.5em; text-align: center; text-transform:uppercase; font-weight: 900; display: block;
+}
+
+.sliderinfo2 {
+	padding-left: 20px; width: 100%; display: block; 	 overflow: hidden; text-transform: uppercase; font-weight: 900; font-size: 1.1em; padding: 0; 
+}
+
+.sliderinfo3 {
+	padding-left: 20px; width: 100%; display: block; padding: 0; padding-bottom: 10px; overflow: hidden;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+/**********************************
+ABOUT
+***********************************/
+
+#bioimgcont {
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	overflow: hidden;
+
+}
+
+#bioimgcont img {
+	width: 100%;
+	
+
+}
+
+#biotext {
+	width: 97%;
+	margin: 0 auto;
+	 margin-bottom: 30px;	
+}
+
+#biotext p{
+	margin: 0px;
+	padding:  10px 20px;
+	padding-bottom: 15px;
+	line-height: 1.4em;
+	background: none;
+	overflow: hidden;
+			
+}
+ 
+
+  #bioimage {
+width: 300px;
+clear: both;
+
+
+}

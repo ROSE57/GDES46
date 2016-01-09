@@ -1,0 +1,38 @@
+@media screen and (min-width: 525px) {
+
+
+nav ul ul  {
+	top: 100%;
+		
+		
+	}
+	
+}
+
+@media screen and (min-width: 650px) {
+	
+	#infomain {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+	#intro {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+}
+
+
+
+@media screen and (min-width: 900px) {
+	
+#infomain{
+width: 45%; margin: 0; margin-right: 2%; margin-top: -17px; float: left;  margin-bottom: 20px; 
+}
+
+#intro {
+width: 53%; margin: 0; float: left;
+}
+}
+

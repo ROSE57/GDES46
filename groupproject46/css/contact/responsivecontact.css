@@ -1,0 +1,55 @@
+
+@media (max-width: 600px) {
+  form > div {
+    margin: 0 0 15px 0; 
+  }
+  form > div > label,
+  legend {
+	  width: 100%;
+    float: none;
+    margin: 0 0 5px 0;
+  }
+  form > div > div,
+  form > div > fieldset > div {
+    width: 100%;
+    float: none;
+  }
+  input[type=text],
+  input[type=email],
+  input[type=url],
+  input[type=password],
+  textarea,
+  select {
+    width: 100%; 
+  }
+ 
+  
+}
+@media (min-width: 1200px) {
+  form > div > label,
+	legend {
+  	text-align: right;
+  }
+}
+ 
+ 
+
+
+@media screen and (min-width: 650px) {
+
+  
+ 
+ #formstyle {
+	width: 40%; margin-left: 2%; overflow: hidden; float: left; padding: 3%; background: rgba(80, 80, 80, 0.75); margin-bottom: 30px;
+}
+
+
+#formtext {
+width: 40%; margin-left: 2%; overflow: hidden; float: left; padding: 0% 0 0 3%;	
+}
+
+
+}
+
+
+

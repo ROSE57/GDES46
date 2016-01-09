@@ -1,0 +1,104 @@
+
+/**********************************
+CONTACT
+***********************************/
+ 
+
+form header {
+  margin: 0 0 20px 0; 
+}
+form header div {
+  font-size: 90%;
+  color: #999;
+}
+form header h2 {
+  margin: 0 0 5px 0;
+}
+form > div {
+  clear: both;
+  overflow: hidden;
+  padding: 1px;
+  margin: 0 0 10px 0;
+}
+form > div > fieldset > div > div {
+  margin: 0 0 5px 0;
+}
+form > div > label,
+legend {
+	width: 20%;
+padding-right: 10px;
+}
+form > div > div,
+form > div > fieldset > div {
+  width: 100%;
+  float: right;
+}
+form > div > fieldset label {
+	font-size: 90%;
+}
+fieldset {
+	border: 0;
+  padding: 0;
+}
+
+input[type=text],
+input[type=email],
+input[type=url],
+input[type=password],
+textarea {
+	width: 100%;
+  border-top: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+input[type=text],
+input[type=email],
+input[type=url],
+input[type=password] {
+  width: 70%;
+}
+input[type=text]:focus,
+input[type=email]:focus,
+input[type=url]:focus,
+input[type=password]:focus,
+textarea:focus {
+  outline: 0;
+  border-color: #4697e4;
+}
+
+
+ #formstyle {
+	width: 90%; overflow: hidden;  padding: 5%; background: rgba(80, 80, 80, 0.75); margin-bottom: 20px; clear: left;
+}
+
+
+#formtext {
+width:100%;  overflow: hidden; padding: 0% 0 0 0%; margin-bottom: 20px	
+}
+
+#formtext p {
+	background: none;
+	line-height: 1.5em;
+}
+
+#formtext h2 {
+	background: rgba(50, 50, 50, 0.75); 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
